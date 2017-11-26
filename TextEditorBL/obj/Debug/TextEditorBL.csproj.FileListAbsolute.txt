@@ -1,0 +1,5 @@
+c:\users\Irina\documents\visual studio 2012\Projects\TestProject\TextEditorBL\bin\Debug\TextEditorBL.dll
+c:\users\Irina\documents\visual studio 2012\Projects\TestProject\TextEditorBL\bin\Debug\TextEditorBL.pdb
+c:\users\Irina\documents\visual studio 2012\Projects\TestProject\TextEditorBL\obj\Debug\TextEditorBL.csprojResolveAssemblyReference.cache
+c:\users\Irina\documents\visual studio 2012\Projects\TestProject\TextEditorBL\obj\Debug\TextEditorBL.dll
+c:\users\Irina\documents\visual studio 2012\Projects\TestProject\TextEditorBL\obj\Debug\TextEditorBL.pdb

@@ -1,0 +1,3 @@
+C:\Users\Irina\Documents\Visual Studio 2012\Projects\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\Irina\Documents\Visual Studio 2012\Projects\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\Users\Irina\Documents\Visual Studio 2012\Projects\TestProject\TestProject\obj\Debug\TestProject.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEdProject", "TestProject\TextEdProject.csproj", "{CC2B2099-289C-4631-A936-428485CA364E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEditorBL", "TextEditorBL\TextEditorBL.csproj", "{7724745C-BD1C-4196-B2AC-FAEA0F743286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC2B2099-289C-4631-A936-428485CA364E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2B2099-289C-4631-A936-428485CA364E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2B2099-289C-4631-A936-428485CA364E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2B2099-289C-4631-A936-428485CA364E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7724745C-BD1C-4196-B2AC-FAEA0F743286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7724745C-BD1C-4196-B2AC-FAEA0F743286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7724745C-BD1C-4196-B2AC-FAEA0F743286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7724745C-BD1C-4196-B2AC-FAEA0F743286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

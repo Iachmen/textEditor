@@ -1,0 +1,11 @@
+c:\users\Irina\documents\visual studio 2012\Projects\TestProject\TestProject\bin\Debug\TestProject.exe.config
+c:\users\Irina\documents\visual studio 2012\Projects\TestProject\TestProject\bin\Debug\TestProject.exe
+c:\users\Irina\documents\visual studio 2012\Projects\TestProject\TestProject\bin\Debug\TestProject.pdb
+c:\users\Irina\documents\visual studio 2012\Projects\TestProject\TestProject\bin\Debug\TextEditorBL.dll
+c:\users\Irina\documents\visual studio 2012\Projects\TestProject\TestProject\bin\Debug\TextEditorBL.pdb
+c:\users\Irina\documents\visual studio 2012\Projects\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+c:\users\Irina\documents\visual studio 2012\Projects\TestProject\TestProject\obj\Debug\TestProject.MainForm.resources
+c:\users\Irina\documents\visual studio 2012\Projects\TestProject\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+c:\users\Irina\documents\visual studio 2012\Projects\TestProject\TestProject\obj\Debug\TestProject.csproj.GenerateResource.Cache
+c:\users\Irina\documents\visual studio 2012\Projects\TestProject\TestProject\obj\Debug\TestProject.exe
+c:\users\Irina\documents\visual studio 2012\Projects\TestProject\TestProject\obj\Debug\TestProject.pdb
